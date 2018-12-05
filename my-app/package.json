@@ -26,8 +26,6 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "http://beeflawg.github.io/clickgame",
-  "devDependencies": {
-    "gh-pages": "^2.0.1"
-  }
+  "homepage": "http://beeflawg.github.io/clickgame"
+  
 }
